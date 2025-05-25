@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fnd-inventory-cards/public/static/css/main.e689b7f0.css",
-    "main.js": "/fnd-inventory-cards/public/static/js/main.56379c14.js",
-    "static/js/213.c52805dc.chunk.js": "/fnd-inventory-cards/public/static/js/213.c52805dc.chunk.js",
-    "static/js/455.e698b6b4.chunk.js": "/fnd-inventory-cards/public/static/js/455.e698b6b4.chunk.js",
-    "index.html": "/fnd-inventory-cards/public/index.html",
-    "main.e689b7f0.css.map": "/fnd-inventory-cards/public/static/css/main.e689b7f0.css.map",
-    "main.56379c14.js.map": "/fnd-inventory-cards/public/static/js/main.56379c14.js.map",
-    "213.c52805dc.chunk.js.map": "/fnd-inventory-cards/public/static/js/213.c52805dc.chunk.js.map",
-    "455.e698b6b4.chunk.js.map": "/fnd-inventory-cards/public/static/js/455.e698b6b4.chunk.js.map"
+    "main.css": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/css/main.e689b7f0.css",
+    "main.js": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/js/main.f18be36a.js",
+    "static/js/213.c52805dc.chunk.js": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/js/213.c52805dc.chunk.js",
+    "static/js/455.e698b6b4.chunk.js": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/js/455.e698b6b4.chunk.js",
+    "index.html": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/index.html",
+    "main.e689b7f0.css.map": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/css/main.e689b7f0.css.map",
+    "main.f18be36a.js.map": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/js/main.f18be36a.js.map",
+    "213.c52805dc.chunk.js.map": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/js/213.c52805dc.chunk.js.map",
+    "455.e698b6b4.chunk.js.map": "/fnd-inventory-cards/public/https://joeaycramer.github.io/fnd-inventory-cards/public/static/js/455.e698b6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e689b7f0.css",
-    "static/js/main.56379c14.js"
+    "static/js/main.f18be36a.js"
   ]
 }
